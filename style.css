@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: black;
+}
+nav{
+    padding: 40px;
+    text-align: center;
+    color: white;
+}
+
+.opciones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+
+
+.seleccionador{
+    padding: 5px;
+    width: 250px;
+    font-size: 15px;
+
+}
+
+option{
+    font-size: 15px;
+}
+
+.lugar{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+    
+}
+
+.tarjeta{
+   width: 350px;
+   margin: 10px;
+   padding: 20px;
+   background-color: black;
+   text-align: center;
+
+ 
+}
+
+
+.contenedor_imagen{
+    height: 180px;
+    overflow: hidden;
+}
+
+.imagen{
+    width: 150px;
+    height: auto;
+}
+
+.titulo{
+    color: white;
+    margin: 10px;
+}
+
+.varita{
+    color: white;
+}
+
+.id{
+    color: white;
+}
